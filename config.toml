@@ -1,0 +1,4 @@
+baseURL = 'https://hartwellwhite.github.io/'
+languageCode = 'en-us'
+title = "Driscoll's Blog"
+theme = 'hugo-theme-stack'
